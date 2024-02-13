@@ -2,7 +2,7 @@
 
 ## Overview
 
-`CREATE DATABASE videoGames`
+`CREATE DATABASE gamestore` or `createdb gamestore`
 
 `npm install` 
 
